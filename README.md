@@ -2,6 +2,9 @@
 
 SpringMVC项目怎样在PCF运行
 
+`master`分支为SpringMVC转换成SpringBoot的代码
+`springmvc`分支为SpringMVC原生代码
+
 ## 不转换为SpringBoot项目
 
 - 执行`mvn clean package`
